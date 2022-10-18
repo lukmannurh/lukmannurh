@@ -1,12 +1,9 @@
-# Halo semua! 
-
-Perkenalkan nama saya **Lukman Nur Hakim**.
-
-Saya seorang **Mahasiswa** di [IBI Kesatuan Bogor](https://www.ibik.ac.id/).
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/lukman-nur-hakim-0b6b4a247)ku ya.
-
-<p align="left">
-<a href="https://github.com/lukmannurh">
-</a>
-</p>
+# HI EVERYONE! 
+- ???? Hi, I'm **Lukman Nur Hakim**
+- ???? I'm interested in Software Engineering and Cloud Engineering 
+- ???? I'm currently learning Front-End Web Development Learning Path
+- ????️ I'm looking to collaborate on Movie Catalogue project
+- ???? How to reach me on 
+<a href="https://www.instagram.com/luqmannur_h/" target="_blank">Instagram</a>, and
+<a href="https://www.linkedin.com/in/lukman-nur-hakim-0b6b4a247/" target="_blank">LinkedIn</a>
+ 
