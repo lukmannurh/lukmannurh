@@ -2,7 +2,6 @@
 - 👋 Hi, I'm **Lukman Nur Hakim**
 - ⚡ I'm interested in Software Engineering and Cloud Engineering 
 - 💬 I'm currently learning Front-End Web and Back-End Learning Path at Dicoding Academy
-- 🌱 I'm looking to collaborate on Movie Catalogue project
 
 ### 🔍 You Can Find Me at 
 <p> 
