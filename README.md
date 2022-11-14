@@ -5,7 +5,7 @@
 
 ### 🔍 You Can Find Me at 
 <p> 
-  <a href="https://www.linkedin.com/in/lukman-nur-hakim-0b6b4a247/" target="_blank">
+  <a href="https://www.linkedin.com/in/lukman-nur-hakim" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
   <a href="https://www.instagram.com/luqmannur_h/" target="_blank">
